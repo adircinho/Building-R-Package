@@ -1,4 +1,6 @@
-[![Travis-CI Build Status](https://travis-ci.com/adircinho/farsViz.svg?branch=master)](https://travis-ci.com/adircinho/farsViz)
+[![Travis-CI Build Status](https://travis-ci.com/adircinho/Building-R-Package.svg?branch=main)](https://travis-ci.com/adircinho/Building-R-Package)
+
+
 
 
 Module 4 - Building R Packages
